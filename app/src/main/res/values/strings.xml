@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BitacoraApp</string>
+    <string name="title_activity_agregar_cuaderno">Agregar Cuaderno</string>
+    <string name="title_activity_editar_cuaderno">Editar Cuaderno</string>
+    <string name="txtHintCuaderno">Nuevo Cuaderno</string>
+    <string name="txtBtnGuardar">Guardar</string>
+    <string name="txtBtnCancelar">Cancelar</string>
+    <string name="txtBtnModificar">Modificar</string>
+    <string name="txtEditandoCuaderno">Editando Cuaderno</string>
+    <string name="txtEditandoApunte">Editando Apunte</string>
+    <string name="title_activity_editar_fecha">Editar Fecha</string>
+    <string name="title_activity_editar_apunte">Editar Apunte</string>
+    <string name="lblId">Nº</string>
+    <string name="title_activity_agregar_apunte">Agregar Apunte</string>
+    <string name="txtHintApunte">Escribir apunte</string>
+    <string name="txtHintFecha">Escribir fecha</string>
+</resources>
